@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_inimigo_slime",
   "isCompatibility":false,
   "isDnD":false,

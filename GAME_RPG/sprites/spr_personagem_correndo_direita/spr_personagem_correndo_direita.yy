@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_personagem_correndo_direita",
   "bboxMode":0,
   "bbox_bottom":18,
@@ -12,12 +12,12 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"292932ef-08ba-4460-8c4c-f3921d543ac2","name":"292932ef-08ba-4460-8c4c-f3921d543ac2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b8dda474-1048-4d61-8c01-338cc106e6be","name":"b8dda474-1048-4d61-8c01-338cc106e6be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"28d43efc-e339-404f-ad17-de3ae603a76b","name":"28d43efc-e339-404f-ad17-de3ae603a76b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"63d484ad-7943-494a-a33b-892a5c3b77fa","name":"63d484ad-7943-494a-a33b-892a5c3b77fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"096b5c2a-4332-4b6f-af3b-7fe2748c65b5","name":"096b5c2a-4332-4b6f-af3b-7fe2748c65b5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"db077301-ff83-44f9-ba7e-b52b1ffff971","name":"db077301-ff83-44f9-ba7e-b52b1ffff971","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"292932ef-08ba-4460-8c4c-f3921d543ac2","name":"292932ef-08ba-4460-8c4c-f3921d543ac2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b8dda474-1048-4d61-8c01-338cc106e6be","name":"b8dda474-1048-4d61-8c01-338cc106e6be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"28d43efc-e339-404f-ad17-de3ae603a76b","name":"28d43efc-e339-404f-ad17-de3ae603a76b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"63d484ad-7943-494a-a33b-892a5c3b77fa","name":"63d484ad-7943-494a-a33b-892a5c3b77fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"096b5c2a-4332-4b6f-af3b-7fe2748c65b5","name":"096b5c2a-4332-4b6f-af3b-7fe2748c65b5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"db077301-ff83-44f9-ba7e-b52b1ffff971","name":"db077301-ff83-44f9-ba7e-b52b1ffff971","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -37,7 +37,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_personagem_correndo_direita",
     "autoRecord":true,
     "backdropHeight":768,
@@ -73,24 +73,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"292932ef-08ba-4460-8c4c-f3921d543ac2","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"edd2bccb-de6b-4e04-b968-15475b795d13","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b8dda474-1048-4d61-8c01-338cc106e6be","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"77c8dd99-0157-42b2-bdea-bbe8878afe9c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"28d43efc-e339-404f-ad17-de3ae603a76b","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0a6bb03b-56c0-4dca-8d6e-534ac074eadd","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"63d484ad-7943-494a-a33b-892a5c3b77fa","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c9505829-623d-4ab6-8ece-615c9394ca08","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"096b5c2a-4332-4b6f-af3b-7fe2748c65b5","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"36dfbdf2-bc72-4a95-b957-c9b9eecdf2af","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"db077301-ff83-44f9-ba7e-b52b1ffff971","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d1f2ffd7-74ed-48e6-b927-277ba0549076","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"292932ef-08ba-4460-8c4c-f3921d543ac2","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"edd2bccb-de6b-4e04-b968-15475b795d13","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b8dda474-1048-4d61-8c01-338cc106e6be","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"77c8dd99-0157-42b2-bdea-bbe8878afe9c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"28d43efc-e339-404f-ad17-de3ae603a76b","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0a6bb03b-56c0-4dca-8d6e-534ac074eadd","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"63d484ad-7943-494a-a33b-892a5c3b77fa","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c9505829-623d-4ab6-8ece-615c9394ca08","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"096b5c2a-4332-4b6f-af3b-7fe2748c65b5","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"36dfbdf2-bc72-4a95-b957-c9b9eecdf2af","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"db077301-ff83-44f9-ba7e-b52b1ffff971","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d1f2ffd7-74ed-48e6-b927-277ba0549076","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

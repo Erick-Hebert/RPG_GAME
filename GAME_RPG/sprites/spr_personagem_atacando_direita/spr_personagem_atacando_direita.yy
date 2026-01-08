@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_personagem_atacando_direita",
   "bboxMode":0,
   "bbox_bottom":17,
@@ -12,12 +12,12 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4ba870e9-9fd9-40bb-be6b-d9a19bdb6e02","name":"4ba870e9-9fd9-40bb-be6b-d9a19bdb6e02","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0e6bbb6f-d944-4bac-9321-645ef04e5ca2","name":"0e6bbb6f-d944-4bac-9321-645ef04e5ca2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d792a2e1-c026-4768-a79d-6879e102a05c","name":"d792a2e1-c026-4768-a79d-6879e102a05c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"80cad66b-c31a-4f9e-9167-12b1e344fdae","name":"80cad66b-c31a-4f9e-9167-12b1e344fdae","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"cc860188-fc02-4f4b-b91e-c45b3c6c8d21","name":"cc860188-fc02-4f4b-b91e-c45b3c6c8d21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"093dad36-4d55-4425-a871-daa508a40330","name":"093dad36-4d55-4425-a871-daa508a40330","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4ba870e9-9fd9-40bb-be6b-d9a19bdb6e02","name":"4ba870e9-9fd9-40bb-be6b-d9a19bdb6e02","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0e6bbb6f-d944-4bac-9321-645ef04e5ca2","name":"0e6bbb6f-d944-4bac-9321-645ef04e5ca2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d792a2e1-c026-4768-a79d-6879e102a05c","name":"d792a2e1-c026-4768-a79d-6879e102a05c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"80cad66b-c31a-4f9e-9167-12b1e344fdae","name":"80cad66b-c31a-4f9e-9167-12b1e344fdae","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cc860188-fc02-4f4b-b91e-c45b3c6c8d21","name":"cc860188-fc02-4f4b-b91e-c45b3c6c8d21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"093dad36-4d55-4425-a871-daa508a40330","name":"093dad36-4d55-4425-a871-daa508a40330","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -37,7 +37,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_personagem_atacando_direita",
     "autoRecord":true,
     "backdropHeight":768,
@@ -73,24 +73,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4ba870e9-9fd9-40bb-be6b-d9a19bdb6e02","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b2c515ba-04aa-4d36-9ec2-e7f719ef56d0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0e6bbb6f-d944-4bac-9321-645ef04e5ca2","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d60d056f-5842-4928-a107-1131179c0976","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d792a2e1-c026-4768-a79d-6879e102a05c","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7a1cdd1d-5b27-4455-b5ef-4a28c3bac6f2","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"80cad66b-c31a-4f9e-9167-12b1e344fdae","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c1060c62-2f4b-4aa6-a108-76f37e39d6fa","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cc860188-fc02-4f4b-b91e-c45b3c6c8d21","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"69d494eb-5078-4e3b-b0cd-807701683968","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"093dad36-4d55-4425-a871-daa508a40330","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ab9c5f6a-1e5f-4c26-9b9f-ba45c79bc9bd","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4ba870e9-9fd9-40bb-be6b-d9a19bdb6e02","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b2c515ba-04aa-4d36-9ec2-e7f719ef56d0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"0e6bbb6f-d944-4bac-9321-645ef04e5ca2","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d60d056f-5842-4928-a107-1131179c0976","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d792a2e1-c026-4768-a79d-6879e102a05c","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"7a1cdd1d-5b27-4455-b5ef-4a28c3bac6f2","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"80cad66b-c31a-4f9e-9167-12b1e344fdae","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c1060c62-2f4b-4aa6-a108-76f37e39d6fa","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"cc860188-fc02-4f4b-b91e-c45b3c6c8d21","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"69d494eb-5078-4e3b-b0cd-807701683968","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"093dad36-4d55-4425-a871-daa508a40330","path":"sprites/spr_personagem_atacando_direita/spr_personagem_atacando_direita.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ab9c5f6a-1e5f-4c26-9b9f-ba45c79bc9bd","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_personagem_correndo_baixo",
   "bboxMode":0,
   "bbox_bottom":19,
@@ -12,12 +12,12 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8378c1f2-dda0-418a-ba23-75e5f18fa93d","name":"8378c1f2-dda0-418a-ba23-75e5f18fa93d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ae64bbd9-d8fc-4fb2-a047-9cb312222252","name":"ae64bbd9-d8fc-4fb2-a047-9cb312222252","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"619301eb-bbe8-427b-834e-824359f78bb4","name":"619301eb-bbe8-427b-834e-824359f78bb4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a8efaca3-8fd5-451d-9582-7aad5b890ec4","name":"a8efaca3-8fd5-451d-9582-7aad5b890ec4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"945eb6ca-2bbc-4203-a661-8cd490462add","name":"945eb6ca-2bbc-4203-a661-8cd490462add","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"041b047d-2b5d-4fd7-9294-3faa6ecc35e2","name":"041b047d-2b5d-4fd7-9294-3faa6ecc35e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8378c1f2-dda0-418a-ba23-75e5f18fa93d","name":"8378c1f2-dda0-418a-ba23-75e5f18fa93d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ae64bbd9-d8fc-4fb2-a047-9cb312222252","name":"ae64bbd9-d8fc-4fb2-a047-9cb312222252","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"619301eb-bbe8-427b-834e-824359f78bb4","name":"619301eb-bbe8-427b-834e-824359f78bb4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a8efaca3-8fd5-451d-9582-7aad5b890ec4","name":"a8efaca3-8fd5-451d-9582-7aad5b890ec4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"945eb6ca-2bbc-4203-a661-8cd490462add","name":"945eb6ca-2bbc-4203-a661-8cd490462add","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"041b047d-2b5d-4fd7-9294-3faa6ecc35e2","name":"041b047d-2b5d-4fd7-9294-3faa6ecc35e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -37,7 +37,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_personagem_correndo_baixo",
     "autoRecord":true,
     "backdropHeight":768,
@@ -73,24 +73,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8378c1f2-dda0-418a-ba23-75e5f18fa93d","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"efc78cc6-792b-43a5-a6c0-2a31a5261c7c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ae64bbd9-d8fc-4fb2-a047-9cb312222252","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e146fec7-300c-4236-8c5a-9959a1841260","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"619301eb-bbe8-427b-834e-824359f78bb4","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"47a10c49-8140-46b6-ad24-95476b2e99ba","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a8efaca3-8fd5-451d-9582-7aad5b890ec4","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0729b272-62b8-48c1-b763-1e3a496be1ff","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"945eb6ca-2bbc-4203-a661-8cd490462add","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d7bca27a-c941-48a7-959f-3d7f21e0d096","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"041b047d-2b5d-4fd7-9294-3faa6ecc35e2","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"645b689a-7948-4b41-aa9b-fac608df98e3","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8378c1f2-dda0-418a-ba23-75e5f18fa93d","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"efc78cc6-792b-43a5-a6c0-2a31a5261c7c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ae64bbd9-d8fc-4fb2-a047-9cb312222252","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e146fec7-300c-4236-8c5a-9959a1841260","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"619301eb-bbe8-427b-834e-824359f78bb4","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"47a10c49-8140-46b6-ad24-95476b2e99ba","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a8efaca3-8fd5-451d-9582-7aad5b890ec4","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0729b272-62b8-48c1-b763-1e3a496be1ff","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"945eb6ca-2bbc-4203-a661-8cd490462add","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d7bca27a-c941-48a7-959f-3d7f21e0d096","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"041b047d-2b5d-4fd7-9294-3faa6ecc35e2","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"645b689a-7948-4b41-aa9b-fac608df98e3","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

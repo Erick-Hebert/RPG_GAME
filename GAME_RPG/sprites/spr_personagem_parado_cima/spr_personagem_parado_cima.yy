@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_personagem_parado_cima",
   "bboxMode":0,
   "bbox_bottom":17,
@@ -12,12 +12,12 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"6a5b344b-b331-436c-97b2-a9fbc33294f7","name":"6a5b344b-b331-436c-97b2-a9fbc33294f7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c37ada15-dfbe-4aa1-a496-4c65eadb89fd","name":"c37ada15-dfbe-4aa1-a496-4c65eadb89fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8191d76f-a4cc-429d-abf4-3cc48d089de2","name":"8191d76f-a4cc-429d-abf4-3cc48d089de2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c1072acc-351e-435b-8515-1351af78cafd","name":"c1072acc-351e-435b-8515-1351af78cafd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"232f654c-8e9b-4b35-ba29-997eac6659ee","name":"232f654c-8e9b-4b35-ba29-997eac6659ee","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"60ea3367-0f0d-4a58-bfcb-3312a5ef6e2a","name":"60ea3367-0f0d-4a58-bfcb-3312a5ef6e2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6a5b344b-b331-436c-97b2-a9fbc33294f7","name":"6a5b344b-b331-436c-97b2-a9fbc33294f7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c37ada15-dfbe-4aa1-a496-4c65eadb89fd","name":"c37ada15-dfbe-4aa1-a496-4c65eadb89fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8191d76f-a4cc-429d-abf4-3cc48d089de2","name":"8191d76f-a4cc-429d-abf4-3cc48d089de2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c1072acc-351e-435b-8515-1351af78cafd","name":"c1072acc-351e-435b-8515-1351af78cafd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"232f654c-8e9b-4b35-ba29-997eac6659ee","name":"232f654c-8e9b-4b35-ba29-997eac6659ee","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"60ea3367-0f0d-4a58-bfcb-3312a5ef6e2a","name":"60ea3367-0f0d-4a58-bfcb-3312a5ef6e2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -37,7 +37,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_personagem_parado_cima",
     "autoRecord":true,
     "backdropHeight":768,
@@ -73,24 +73,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6a5b344b-b331-436c-97b2-a9fbc33294f7","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"85032d77-7141-43ab-b352-7263e8efba7e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c37ada15-dfbe-4aa1-a496-4c65eadb89fd","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"89e9ed25-f2a1-4539-aaee-9378a1cc876d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8191d76f-a4cc-429d-abf4-3cc48d089de2","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d29baaf4-18a1-4042-9b47-947946ff2273","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c1072acc-351e-435b-8515-1351af78cafd","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0826dfb1-f726-42e6-9323-2b05ced87c99","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"232f654c-8e9b-4b35-ba29-997eac6659ee","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c7ee3edc-ee0a-4b39-ba8e-d63e86061c4a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"60ea3367-0f0d-4a58-bfcb-3312a5ef6e2a","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"43e66665-c628-46c6-bcb0-20347b121b39","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"6a5b344b-b331-436c-97b2-a9fbc33294f7","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"85032d77-7141-43ab-b352-7263e8efba7e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c37ada15-dfbe-4aa1-a496-4c65eadb89fd","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"89e9ed25-f2a1-4539-aaee-9378a1cc876d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8191d76f-a4cc-429d-abf4-3cc48d089de2","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d29baaf4-18a1-4042-9b47-947946ff2273","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c1072acc-351e-435b-8515-1351af78cafd","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0826dfb1-f726-42e6-9323-2b05ced87c99","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"232f654c-8e9b-4b35-ba29-997eac6659ee","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c7ee3edc-ee0a-4b39-ba8e-d63e86061c4a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"60ea3367-0f0d-4a58-bfcb-3312a5ef6e2a","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"43e66665-c628-46c6-bcb0-20347b121b39","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
